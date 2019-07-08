@@ -1,0 +1,67 @@
+#nav{
+    display: flex;
+    padding: 50px;
+}
+.footer{
+    display: flex;
+    margin-bottom: 0%;
+}
+
+#sign-up{
+    border-radius: 50px;
+    background-color: transparent;
+    height: 50px;
+    
+}
+#login{
+    background-color: transparent;
+    border: none;
+    height: 50px;
+}
+#input{
+   border-radius: 50px;
+   border: 1px solid gray;
+   height: 50px;
+}
+#first{
+    float: left;
+}
+#second{
+    float: right;
+}
+#middle{
+    display: flex;
+    }
+#left{
+    width: 600px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 10%;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+}
+#right{
+    display: flex;
+}
+#one{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+#two{
+    width: 50px;
+    height: 50px;
+    background-color: bred;
+}
+#three{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+#four{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
